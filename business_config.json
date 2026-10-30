@@ -1,0 +1,16 @@
+
+{
+    "rto_cost": 169.40,
+    "prepaid_discount": 20,
+    "cod_rto_rate": 0.28,
+    "prepaid_rto_rate": 0.04,
+
+    "risk_thresholds": {
+        "ship_as_is": 0.15,
+        "confirmation": 0.30,
+        "prepaid_nudge": 0.55
+    },
+
+    "confirmation_timeout_hours": 24,
+    "auto_cancel": false
+}
