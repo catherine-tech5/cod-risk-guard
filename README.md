@@ -84,7 +84,7 @@ The virtual environment (`venv/`) should not be committed to GitHub.
 ### Step 1: Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/catherine-tech5/cod-risk-guard
 cd cod-risk-guard
 ```
 
